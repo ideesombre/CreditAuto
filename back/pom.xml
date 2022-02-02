@@ -39,7 +39,7 @@
 
 		<junit.version>4.12</junit.version>
 
-		<postgre.version>42.2.8</postgre.version>
+		<postgre.version>42.2.25</postgre.version>
 
 		<hibernate.version>5.4.8.Final</hibernate.version>
 
